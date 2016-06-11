@@ -10,4 +10,5 @@ namespace DinerMax3000Console
     {
         public string Disclaimer;
     }
+
 }
